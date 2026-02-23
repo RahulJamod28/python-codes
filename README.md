@@ -1,1 +1,1 @@
-# python-codes
+# practice course in OOP
